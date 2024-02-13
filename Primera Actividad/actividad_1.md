@@ -16,3 +16,7 @@ Con base en la definición de inteligencia anteriormente descrita, podemos defin
 (Estos parrafos han sido corregidos tanto gramatical como ortográficamente por ChatGPT)
 
 ### Vea el video que se encuentra en https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s. Haga un análisis de lo discutido en el documento con respecto al video.
+
+Los xenobots representan un  sistema bio-inspirado que busca emular las funciones y comportamientos de los sistemas celulares naturales. El enfoque bio-inspirado de los xenobots ofrece diversas ventajas significativas. En primer lugar, permite aprovechar la eficiencia y la versatilidad inherentes a los sistemas biológicos naturales. Al imitar los principios de funcionamiento de las células vivas, los xenobots pueden ser diseñados para llevar a cabo tareas específicas de manera más eficiente que los robots tradicionales. Esta optimización se traduce en un mejor desempeño en entornos biológicos, donde estos xenobots están especialmente adaptados para funcionar. lo que personalmente mas nos impacta es el hecho de que estos robots al comportarse como celulas ya tienen la capacidad para moverse y reproducirse por su propia cuenta
+
+
