@@ -1,6 +1,9 @@
 # actividad 1 - Inteligencia aritficial y mini robots
+
 ### Nombres: 
--Abraham Felipe Másmela Ramirez\\
+
+-Abraham Felipe Másmela Ramirez
+
 -Juan Jose Rojas
 
 #### Dé una definición propia de inteligencia artificial:
